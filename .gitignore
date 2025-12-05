@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# ChromaDB / vector store
+**/data/chroma/
+**/data/vector_store/
+**/data/index/
+**/data/*.sqlite3
+
+
+# Uploaded documents
+backend/data/
+**/data/
+
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Lock files
+uv.lock
+poetry.lock
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+.python-version
