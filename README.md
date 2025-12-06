@@ -34,7 +34,7 @@ User Query → API → Vector Retrieval (ChromaDB) → Top K Chunks → LLM (Gro
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ShreyasBorade30/knowledge-base-search-engine.git
 cd knowledge-base-rag
 ```
 
