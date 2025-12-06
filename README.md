@@ -184,14 +184,6 @@ In `rag_engine.py`, you can customize:
 
 ### Issue: ChromaDB errors
 **Solution**: Delete `backend/chroma_db` folder and restart
-
-## 🔒 Security Notes
-
-- Never commit `.env` file with real API keys
-- Use environment variables for sensitive data
-- Validate all file uploads
-- Implement rate limiting for production
-- Add authentication for public deployments
   
 
 ## 👨‍💻 Author
