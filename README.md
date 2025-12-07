@@ -130,6 +130,8 @@ knowledge-base-rag/
 ├── pyproject.toml # Project metadata
 ├── uv.lock # Lock file
 └── README.md # Project documentation
+└── kb-search_engine-Demo # Demo video
+
 ```
 
 ## 🔧 Technical Stack
