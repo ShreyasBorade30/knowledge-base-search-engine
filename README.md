@@ -187,7 +187,7 @@ In `rag_engine.py`, you can customize:
 ### Issue: ChromaDB errors
 **Solution**: Delete `backend/chroma_db` folder and restart
 
-### Demo VideoLink:
+### Demo Video Link:
 https://drive.google.com/file/d/11hpk3HuCDz18TssFUpSmo2n5T3Jea2va/view?usp=sharing
   
 
